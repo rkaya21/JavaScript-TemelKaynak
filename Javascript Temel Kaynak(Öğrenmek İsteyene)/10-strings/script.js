@@ -1,7 +1,7 @@
-let ad = "Sadık";
-let soyad = "Turan";
-let yas = 45;
-let sehir = "Kocaeli";
+let ad = "Recep";
+let soyad = "Enes";
+let yas = 22;
+let sehir = "Kaya";
 
 let mesaj = "Benim adım " + ad + ' ve soyadım ' + soyad + '. ' + sehir + '\'de yaşıyorum.' + 'Emekliliğe ' + (65 - yas) + ' yılım kaldı.';
 
