@@ -20,8 +20,7 @@ Bu depo, JavaScript diline giriş yapmak isteyenler için temel düzeyde öğret
 - Operatörler
 - Koşullu İfadeler ve Döngüler
 - Fonksiyonlar ve Kapsam
-- Diziler ve Nesneler
-- Olaylar ve DOM Manipülasyonu
+- Diziler ve Nesneler vs.(Dosyaları İnceleyiniz.)
 
 ## Kaynaklar
 
